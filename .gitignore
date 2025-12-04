@@ -1,0 +1,17 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS specific
+.DS_Store
+
+# Large Data Files & Models (Download instructions in README)
+*.csv
+*.npz
+*.joblib
+SMSSpamCollection
