@@ -92,7 +92,7 @@ Follow these steps to set up the project locally on your machine.
 Since large datasets are not stored in the repository, you need to download them:
 
 *   **Task 1 & 2 (MNIST):**
-    1.  Download `mnist_train.csv` and `mnist_test.csv` from [pjreddie.com](https://pjreddie.com/projects/mnist-in-csv/).
+    1.  Download `mnist_train.csv` and `mnist_test.csv` from [GitHub](https://github.com/phoebetronic/mnist?utm_source).
     2.  Place them in both `Task 1/` and `Task 2/` directories.
 
 *   **Task 3 (SMS Spam):**
